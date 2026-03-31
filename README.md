@@ -161,3 +161,12 @@ The analysis is based on the following tables:
 This dashboard demonstrates strong skills in **data analysis, visualization, and business storytelling**, making it suitable for real-world business decision-making scenarios.
 
 ---
+
+## 📁 Dataset
+
+Due to GitHub file size limitations, a sample dataset is included in this repository.
+
+🔗 Full dataset can be accessed here:
+[[Google Drive Link]]  (https://drive.google.com/file/d/14PFE7Af2VH_MT26EiLs0C3OBpzt_KLtN/view?usp=sharing)
+
+The full dataset was used for analysis and dashboard creation.
