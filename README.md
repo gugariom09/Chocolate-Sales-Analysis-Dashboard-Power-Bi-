@@ -167,6 +167,6 @@ This dashboard demonstrates strong skills in **data analysis, visualization, and
 Due to GitHub file size limitations, a sample dataset is included in this repository.
 
 🔗 Full dataset can be accessed here:
-[[Google Drive Link]]  (https://drive.google.com/file/d/14PFE7Af2VH_MT26EiLs0C3OBpzt_KLtN/view?usp=sharing)
+[[Google Drive Link]]  (https://drive.google.com/drive/folders/1-98bUaCqMyxJhJX0tUaayXGwYGfgT6RN?usp=sharing)
 
 The full dataset was used for analysis and dashboard creation.
